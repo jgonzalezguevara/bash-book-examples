@@ -1,8 +1,8 @@
-# Bash Book Examples
+# Ejemplos Bash para administración Linux
 
-Practical Bash examples for Linux administration, automation, backups, monitoring and scheduled tasks.
+Ejemplos prácticos de Bash para administración Linux, automatización, backups, monitorización y tareas programadas mediante cron.
 
-This repository contains scripts and examples related to the book:
+Este repositorio contiene scripts y ejemplos relacionados con el libro:
 
 **Curso Automatiza tu servidor Linux con Bash y Cron**
 
@@ -12,56 +12,54 @@ https://www.amazon.es/dp/B0FXY3ZVJ5
 
 ---
 
-## What you will find here
+## Qué encontrarás aquí
 
-- Backup scripts
-- Cron examples
-- Basic monitoring checks
-- Log review helpers
-- Maintenance tasks
-- Linux automation examples
-
----
-
-## Repository structure
-
-```bash
-bash-book-examples/
-├── backups/
-├── monitoring/
-├── cron/
-├── maintenance/
-├── logs/
-└── docs/
+- Scripts de backup
+- Ejemplos de cron
+- Comprobaciones básicas de monitorización
+- Revisión de logs
+- Tareas de mantenimiento
+- Automatización Linux aplicada
 
 ---
 
-## Related Resources
+## Estructura del repositorio
 
-Website:
+- backups/
+- monitoring/
+- cron/
+- maintenance/
+- logs/
+- docs/
+
+---
+
+## Recursos relacionados
+
+### Web
+
 https://desdeelservidor.es
 
-Book:
-https://desdeelservidor.es/libros/bash-automatizacion.html
+### Biblioteca técnica
 
-Technical Library:
 https://desdeelservidor.es/biblioteca-linux-devops.html
 
-Author:
+### Ficha del libro
+
+https://desdeelservidor.es/libros/bash-automatizacion.html
+
+### Formación
+
+https://desdeelservidor.es/formacion.html
+
+### Autor
+
 https://desdeelservidor.es/autor-jose-gonzalez.html
 
 ---
 
-## Related Resources
+## Aviso
 
-Website:
-https://desdeelservidor.es
+Los scripts incluidos tienen carácter educativo y sirven como punto de partida para automatizaciones reales.
 
-Book:
-https://desdeelservidor.es/libros/bash-automatizacion.html
-
-Technical Library:
-https://desdeelservidor.es/biblioteca-linux-devops.html
-
-Author:
-https://desdeelservidor.es/autor-jose-gonzalez.html
+Antes de utilizarlos en producción conviene revisarlos, validarlos y adaptarlos a las necesidades de cada entorno.
