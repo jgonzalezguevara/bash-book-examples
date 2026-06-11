@@ -33,3 +33,19 @@ bash-book-examples/
 ├── maintenance/
 ├── logs/
 └── docs/
+
+---
+
+## Related Resources
+
+Website:
+https://desdeelservidor.es
+
+Book:
+https://desdeelservidor.es/libros/bash-automatizacion.html
+
+Technical Library:
+https://desdeelservidor.es/biblioteca-linux-devops.html
+
+Author:
+https://desdeelservidor.es/autor-jose-gonzalez.html
