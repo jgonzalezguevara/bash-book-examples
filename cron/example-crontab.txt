@@ -1,0 +1,2 @@
+0 2 * * * /opt/scripts/simple-backup.sh
+0 * * * * /opt/scripts/check-disk-usage.sh
